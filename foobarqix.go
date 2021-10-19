@@ -36,23 +36,3 @@ func Compute(input string) string {
 	}
 	return s
 }
-
-//return s
-
-// if input == "3" {
-// 	return "Foo"
-// }
-
-// if input == "5" {
-// 	return "Bar"
-// }
-
-// if input == "7" {
-// 	return "Qix"
-// } else {
-// 	return input
-// }
-
-// return "0"
-// return "1"
-//}
